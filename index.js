@@ -2,7 +2,7 @@
 // Bank API code from Web Dev For Beginners project
 // https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/7-bank-project/api
 // ***************************************************************************
-response.end("Update webhook la");
+response.end("go write it works to server now!");
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors')
